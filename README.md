@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e9b23743-4370-4199-a376-addd1c4be339)# showmaster-midi_map
+# showmaster-midi_map
 Mapping of midi notes for control light controller like Showtec Showmaster 48 MKII
 
 
