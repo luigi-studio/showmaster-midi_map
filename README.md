@@ -1,5 +1,5 @@
 # showmaster-midi_map
-Mapping of midi notes for control light controller like Showtec Showmaster 48 MKII
+Mapping of midi notes for light controller like Showtec Showmaster 48 MKII
 
 
 | Light control - Canal   | Canal #       | Midi Note | Midi Note (Hexa) |      |
