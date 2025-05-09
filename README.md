@@ -1,6 +1,8 @@
 # showmaster-midi_map
 Mapping of midi notes for light controller like Showtec Showmaster 48 MKII
+Can be use on other generic lights controller
 
+## MIDI MAPPING
 
 | Section                 | Light control - Canal | Canal # | Midi Note | Midi Note (Hexa) |
 |-------------------------|-----------------------|---------|-----------|------------------|
